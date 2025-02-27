@@ -18,14 +18,14 @@ Javier Rubio en el Uso.
 
 
 
+
 ## Pamplona, Navarra
 ![paloma](assets/photos/paloma.jpg)
 
 
+
 ![plaza](assets/photos/plaza.jpg)
 
-
-![muro](assets/photos/muro.jpg)
 
 
 
