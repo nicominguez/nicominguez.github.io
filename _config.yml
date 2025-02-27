@@ -1,3 +1,6 @@
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: My Photography Gallery
 description: A minimalist gallery to showcase my photos.
