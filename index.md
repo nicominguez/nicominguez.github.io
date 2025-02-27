@@ -8,15 +8,14 @@ title: Photography Gallery
 ![javiuso](assets/photos/javiuso.jpg)
 Javier Rubio en el Uso.
 
-
 *November 17th, 2024*
 
 
 
 ![muro](assets/photos/muro.jpg)
 
-
 *November 17th, 2024*
+
 
 
 ## Pamplona, Navarra
@@ -27,6 +26,7 @@ Javier Rubio en el Uso.
 
 
 ![muro](assets/photos/muro.jpg)
+
 
 
 ## Somosierra, Madrid
