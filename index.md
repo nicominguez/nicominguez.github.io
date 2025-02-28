@@ -21,12 +21,11 @@ Javier Rubio en el Huso.
 
 ## Pamplona, Navarra
 ![paloma](assets/photos/paloma.jpg)
-Una paloma meroneando un tejado en Arrosadía.
+
 
 
 ## Somosierra, Madrid
 ![sierra](assets/photos/sierra.jpg)
-Paseo detrás de La Pinilla.
 
 
 *October 27, 2024*
