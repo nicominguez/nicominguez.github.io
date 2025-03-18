@@ -23,9 +23,18 @@ Javier Rubio en el Huso.
 ![paloma](assets/photos/paloma.jpg)
 
 
-
 ## Somosierra, Madrid
 ![sierra](assets/photos/sierra.jpg)
 
 
 *October 27, 2024*
+
+
+
+## Panticosa, Huesca
+![panti](assets/photos/panti.jpg)
+
+
+## Ordino-Arcalís, Andorra
+![arcalis](assets/photos/arcalis.jpg)
+
